@@ -9,9 +9,23 @@ from PIL import Image
 from openai import OpenAI
 
 load_dotenv()
-api_key = os.getenv("KANANA_API_KEY")
-if not api_key:
-    raise ValueError("KANANA_API_KEY 환경변수가 설정되지 않았습니다.")
+
+def _get_api_key() -> str:
+    # 1) .env 또는 시스템 환경변수
+    key = os.getenv("KANANA_API_KEY")
+    if key:
+        return key
+    # 2) Streamlit Cloud Secrets
+    try:
+        import streamlit as st
+        key = st.secrets.get("KANANA_API_KEY")
+        if key:
+            return key
+    except Exception:
+        pass
+    raise ValueError("KANANA_API_KEY가 설정되지 않았습니다. Streamlit Cloud → Settings → Secrets에 추가하세요.")
+
+api_key = _get_api_key()
 
 client = OpenAI(
     api_key=api_key,
