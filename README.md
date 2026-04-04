@@ -13,7 +13,7 @@
 | 📸 Vision Analysis | 반려동물의 표정, 자세, 주변 환경 인식 |
 | 🧠 Emotional Reasoning | 기쁨 / 삐짐 / 당황 / 평온 / 간절 5가지 감정 분류 |
 | 💬 Persona Speech | 개는 `~멍!`, 고양이는 `~냥.` 말투로 1인칭 대사 생성 |
-| 🔊 Voice Synthesis | Kanana-o TTS로 반려동물 목소리 생성 및 즉시 재생 |
+| 🔊 Voice Synthesis | Kanana-o 멀티모달 응답으로 텍스트·음성 동시 생성 및 즉시 재생 |
 
 ## 🛠 Tech Stack
 - **AI Model**: Kanana-o Omni API (Kakao Cloud)
@@ -21,11 +21,11 @@
 - **Language**: Python 3.10+
 - **Libraries**: openai, Pillow, python-dotenv
 
-## 🌐 바로 사용해보기
+## 🌐 서비스 이용해보기
 
 👉 **[https://kanana-pet-interpreter.streamlit.app](https://kanana-pet-interpreter.streamlit.app)**
 
-별도 설치 없이 링크 하나로 바로 사용 가능합니다!
+별도 설치 없이 위 링크에 접속하시면, 바로 이용 가능합니다!
 
 ## 📖 사용 방법
 
