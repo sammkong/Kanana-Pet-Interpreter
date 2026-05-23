@@ -1,6 +1,7 @@
 # 🐾 무슨 생각 하냥? (Pet Interpreter)
 
-![my_pet](docs/my_pet.jpg)
+![my_pet](https://github.com/sammkong/Kanana-Pet-Interpreter/blob/main/docs/my_pet.jpg?raw=true)
+
 
 > 반려동물 사진 한 장으로  
 > “지금 무슨 생각 중일까?”를 상상해보는 멀티모달 AI 서비스
