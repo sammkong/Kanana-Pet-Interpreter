@@ -137,11 +137,9 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 
 ### 4. 자연스러움 vs Consistency Trade-off
 
-가장 흥미로웠던 부분은
-
 - **consistency를 강하게 제한**하면, **응답이 부자연**스러워지고
 
-- **자연스러움을 우선하면, 캐릭터성이 약해진다는 점**이었습니다.
+- **자연스러움을 우선**하면, **캐릭터성이 약해진다는 점**이 보였습니다.
 
 결국 최종적으로는
 
@@ -163,7 +161,7 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 
 ## 이 프로젝트를 통해 느낀 점
 
-이 프로젝트를 하며 가장 크게 느낀 건
+이 프로젝트를 하며 가장 크게 느낀 건,
 
 > AI 서비스 품질은  
 > 모델 자체만으로 결정되지 않는다는 점이었습니다.
@@ -179,7 +177,7 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 같은 요소가 실제 만족도에 더 큰 영향을 준다는 걸 체감했습니다.
 
 특히 반복 테스트와 사용자 시뮬레이션을 통해,  
-“LLM interaction design” 자체가 중요한 개발 경험이라는 걸 많이 배웠습니다.
+“LLM interaction design” 자체가 중요한 개발 경험이라는 걸 배웠습니다.
 
 ---
 
