@@ -1,6 +1,6 @@
 # 🐾 무슨 생각 하냥? (Pet Interpreter)
 
-![my_pet](https://github.com/sammkong/Kanana-Pet-Interpreter/blob/main/docs/my_pet.jpg?raw=true)
+![my_pet](https://raw.githubusercontent.com/sammkong/Kanana-Pet-Interpreter/main/docs/my_pet.jpg)
 
 
 > 반려동물 사진 한 장으로  
