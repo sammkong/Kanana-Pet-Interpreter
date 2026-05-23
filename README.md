@@ -45,7 +45,7 @@ Kanana-o만이 가진 멀티모달 응답과 감정 표현 강점을
 
 ##  서비스 링크
 
-👉 https://kanana-pet-interpreter.streamlit.app
+👉 **[https://kanana-pet-interpreter.streamlit.app](https://kanana-pet-interpreter.streamlit.app)**
 
 > ⚠️ API 호출 한도가 있어 응답이 느리거나 오류가 발생할 수 있습니다.
 
