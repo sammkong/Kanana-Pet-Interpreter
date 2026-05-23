@@ -1,13 +1,15 @@
 # 🐾 무슨 생각 하냥? (Pet Interpreter)
 
-![my_pet](https://raw.githubusercontent.com/sammkong/Kanana-Pet-Interpreter/main/docs/my_pet.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sammkong/Kanana-Pet-Interpreter/main/docs/my_pet.jpg" width="500"/>
+</p>
 
 
 > 반려동물 사진 한 장으로  
 > “지금 무슨 생각 중일까?”를 상상해보는 멀티모달 AI 서비스
 
 **Kanana-o API 베타테스터 프로젝트**로 제작한  
-사용자 경험 중심의 AI interaction 실험 프로젝트입니다.
+사용자 경험 중심의 AI interaction 프로젝트입니다.
 
 ---
 
