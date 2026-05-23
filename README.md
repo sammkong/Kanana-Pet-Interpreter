@@ -203,7 +203,7 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 
 ---
 
-## 느낀점
+## 한 줄 요약
 
 > “모델을 잘 쓰는 것”보다  
 > “사용자가 좋아하는 AI 경험을 만드는 것”에 더 집중한 프로젝트였습니다.
@@ -211,4 +211,8 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 ---
 
 ## 사용자 후기
+
+<p align="center">
+  <img src="docs/review.png" width="700"/>
+</p>
 
