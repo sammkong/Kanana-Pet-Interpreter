@@ -57,7 +57,7 @@ Kanana-o만이 가진 멀티모달 응답과 감정 표현 강점을
 AI 감정 해석, `~멍!` / `~냥.` 대사 생성,  
 음성 재생까지 실제 실행 화면입니다.
 
-https://github.com/sammkong/Kanana-Pet-Interpreter/issues
+ **<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c3264859-1410-427c-bd00-0914a34ef2d0" />**
 
 ---
 
