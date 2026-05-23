@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/sammkong/Kanana-Pet-Interpreter/main/docs/my_pet.jpg" width="500"/>
 </p>
 
-
 > 반려동물 사진 한 장으로  
 > “지금 무슨 생각 중일까?”를 상상해보는 멀티모달 AI 서비스
 
@@ -46,7 +45,7 @@ Kanana-o만이 가진 멀티모달 응답과 감정 표현 강점을
 
 ---
 
-##  서비스 링크
+## 서비스 링크
 
 👉 **[https://kanana-pet-interpreter.streamlit.app](https://kanana-pet-interpreter.streamlit.app)**
 
@@ -64,6 +63,18 @@ AI 감정 해석, `~멍!` / `~냥.` 대사 생성,
 Kanana-o 모델의 감정 표현과 페르소나 응답을 확인할 수 있습니다.
 
 https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
+
+---
+
+## 베타테스트 피드백
+
+<p align="center">
+  <img src="docs/review.png" width="700"/>
+</p>
+
+<p align="center">
+  <sub>kakao hunter님 피드백</sub>
+</p>
 
 ---
 
@@ -207,12 +218,3 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 
 > “모델을 잘 쓰는 것”보다  
 > “사용자가 좋아하는 AI 경험을 만드는 것”에 더 집중한 프로젝트였습니다.
-
----
-
-## 사용자 후기
-
-<p align="center">
-  <img src="docs/review.png" width="700"/>
-</p>
-
