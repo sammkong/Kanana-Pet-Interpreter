@@ -8,7 +8,7 @@
 > “지금 무슨 생각 중일까?”를 상상해보는 멀티모달 AI 서비스
 
 **Kanana-o API 베타테스터 프로젝트**로 제작한  
-사용자 경험 중심의 AI interaction 프로젝트입니다.
+사용자 경험 중심의 멀티모달 AI 서비스 프로젝트입니다.
 
 ---
 
@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 그래서 단순히 “정확한 설명”보다도
 
 - 말투 consistency가 끝까지 유지되는지
-- 캐릭터 immersion이 자연스러운지
+- 캐릭터 몰입감이 자연스러운지
 - 사용자가 실제로 감정을 느끼는지
 
 를 더 중요하게 보기 시작했습니다.
@@ -166,7 +166,7 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 
 - 귀엽다고 느껴지는 경험
 - 반려동물과 대화하는 느낌
-- 캐릭터 immersion
+- 캐릭터 몰입감
 
 이라고 판단했기 때문입니다.
 
