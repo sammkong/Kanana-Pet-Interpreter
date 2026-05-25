@@ -131,22 +131,16 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 자유 생성 방식에서는 응답이 길어질수록  
 `~멍!`, `~냥.` 말투 consistency가 쉽게 무너졌습니다.
 
----
-
 ### 2. Few-shot Prompt 추가
 
 삐진 강아지, 귀찮은 고양이 같은 예시 대사를 few-shot으로 추가해  
 말투 패턴을 더 안정적으로 유도했습니다.
-
----
 
 ### 3. 말투 제약 + 후처리 적용
 
 문장 ending 제한과 응답 길이 제약을 추가했고,  
 최종적으로 `_enforce_pet_ending()` 후처리를 통해  
 페르소나 consistency를 한 번 더 보정했습니다.
-
----
 
 ### 4. 자연스러움 vs Consistency Trade-off
 
