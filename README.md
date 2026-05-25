@@ -80,8 +80,7 @@ https://github.com/user-attachments/assets/8b76c099-df89-4bd7-910f-0473b91ac1ce
 
 ## Prompt Engineering & UX 개선 과정
 
-프로젝트를 진행하며,  
-응답 자연스러움과 페르소나 일관성을 개선하기 위해 Prompt를 반복적으로 수정했습니다.
+> 프로젝트를 진행하며, 응답 자연스러움과 페르소나 일관성을 개선하기 위해 Prompt를 반복적으로 수정했습니다.
 
 ### 1. 긴 응답에서 페르소나 붕괴
 
